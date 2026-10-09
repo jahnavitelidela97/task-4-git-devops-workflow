@@ -1,0 +1,18 @@
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Environment & Secrets
+.env
+*.pem
+*.key
+
+# Build & Logs
+dist/
+build/
+*.log
